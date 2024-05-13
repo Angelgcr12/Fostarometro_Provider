@@ -1,0 +1,156 @@
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\appsettings.json
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\FostarometroAPI.exe
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\FostarometroAPI.deps.json
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\FostarometroAPI.runtimeconfig.json
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\FostarometroAPI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\FostarometroAPI.pdb
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.csproj.AssemblyReference.cache
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.AssemblyInfoInputs.cache
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.AssemblyInfo.cs
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.csproj.CoreCompileInputs.cache
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\staticwebassets\msbuild.FostarometroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.FostarometroAPI.props
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FostarometroAPI.props
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FostarometroAPI.props
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\scopedcss\bundle\FostarometroAPI.styles.css
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\Fostarom.6276E8E3.Up2Date
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\refint\FostarometroAPI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.pdb
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\FostarometroAPI.genruntimeconfig.cache
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\obj\Debug\net8.0\ref\FostarometroAPI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\React\Fostarometro\FostarometroApi\FostarometroAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\appsettings.Development.json
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\appsettings.json
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\FostarometroAPI.exe
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\FostarometroAPI.deps.json
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\FostarometroAPI.runtimeconfig.json
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\FostarometroAPI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\FostarometroAPI.pdb
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Azure.Core.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Azure.Identity.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.csproj.AssemblyReference.cache
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.AssemblyInfoInputs.cache
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.AssemblyInfo.cs
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.csproj.CoreCompileInputs.cache
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\staticwebassets.build.json
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\staticwebassets.development.json
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\staticwebassets\msbuild.FostarometroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\staticwebassets\msbuild.build.FostarometroAPI.props
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FostarometroAPI.props
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FostarometroAPI.props
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\scopedcss\bundle\FostarometroAPI.styles.css
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\Fostarom.6276E8E3.Up2Date
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\refint\FostarometroAPI.dll
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.pdb
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\FostarometroAPI.genruntimeconfig.cache
+E:\Projects\Net\Net Core\FostarometroApi\FostarometroProvider\FostarometroProvider\obj\Debug\net8.0\ref\FostarometroAPI.dll

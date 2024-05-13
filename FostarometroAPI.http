@@ -1,0 +1,6 @@
+@FostarometroAPI_HostAddress = http://localhost:5187
+
+GET {{FostarometroAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
